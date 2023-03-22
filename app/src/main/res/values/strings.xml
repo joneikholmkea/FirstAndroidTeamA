@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="mountain_description">Picture of Tall Mountain</string>
+    <string name="try_btn_text">Try</string>
+    <string name="text1">Hello from xml</string>
+    <string name="input_text_description">Today\'s goal, please</string>
+</resources>
